@@ -1,4 +1,4 @@
-# Python Project Template Readme
+# Fossil WrapDB Tool
 
 Welcome to the **Python Project Template** repository! This README offers user-friendly instructions for setting up, running, and contributing to a Python project. The project is designed for Python 3.7 and above, and it includes guidelines for various development tasks. 
 
@@ -16,8 +16,8 @@ Before you get started, ensure that you have the following prerequisites:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dreamer-coding-555/project-app-py.git
-   cd project-app-py
+   git clone https://github.com/dreamer-coding-555/fossil-wrapdb.git
+   cd fossil-wrapdb
    ```
 
 2. **Install Project Dependencies**:
@@ -28,7 +28,7 @@ Before you get started, ensure that you have the following prerequisites:
 3. **Running the Project** (Optional Step)
 
 ```bash
-python entry.py
+python fossil-wrapdb.py
 ```
 
 4. **Installing the Project**
@@ -39,20 +39,16 @@ python setup.py install
 
 ## Contributing
 
-If you're interested in contributing to this project, please consider opening pull requests or creating issues on the [GitHub repository](https://github.com/dreamer-coding-555/project-app-py). Be sure to review the guidelines provided on the project's GitHub page.
+If you're interested in contributing to this project, please consider opening pull requests or creating issues on the [GitHub repository](https://github.com/dreamer-coding-555/fossil-wrapdb). Be sure to review the guidelines provided on the project's GitHub page.
 
 ## Feedback and Support
 
-If you encounter issues, have questions, or want to provide feedback, please don't hesitate to open an issue on the [GitHub repository](https://github.com/dreamer-coding-555/project-app-py/issues).
+If you encounter issues, have questions, or want to provide feedback, please don't hesitate to open an issue on the [GitHub repository](https://github.com/dreamer-coding-555/fossil-wrapdb/issues).
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+This project is licensed under the [Mozilla Public License](LICENSE).
 
 ---
 
 Thank you for choosing this Python project template. Happy coding and building amazing projects!
-
-## Contact
-
-If you have questions or want to get in touch regarding programming solutions, you can find a way to contact me on my [website](https://trilobite.home.blog/contact/).
