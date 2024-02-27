@@ -19,13 +19,13 @@ For more information on the Native Python Application and the Trilobite Coder La
 from setuptools import setup, find_packages
 
 setup(
-    name="project-app-py",
+    name="fossil-wrapdb",
     version="0.1.0",
-    author="Your Name",
+    author="Michael Gene Brockus (Dreamer)",
     author_email="michaelbrockus@gmail.com",
-    description="A description of your project",
-    long_description="Detailed description of your project",
-    url="https://github.com/dreamer-coding-555/project-app-py",
+    description="Fossil Logic WrapDB tool allows installing Fossil Logic Wrap files.",
+    long_description="Fossil Logic WrapDB tool, this allows users to download Meson build wrap files that have been loaded to upstream from a CLI interface into your project.",
+    url="https://github.com/dreamer-coding-555/fossil-wrapdb",
     packages=find_packages(),  # Automatically find and include all packages
     classifiers=[
         "Intended Audience :: Developers",
